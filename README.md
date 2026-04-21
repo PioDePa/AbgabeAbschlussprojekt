@@ -7,8 +7,8 @@ Involvierte Studenten:
 - Pio De Pascale, Matr.nr.: 2799825
 
 # LINKS: 
- Git-Repository: https://github.com/PioDePa/AbgabeAbschlussprojekt
- Erklärvideo (YouTube): https://youtu.be/XEWGF2PUEAE 
+ - Git-Repository: https://github.com/PioDePa/AbgabeAbschlussprojekt
+ - Erklärvideo (YouTube): https://youtu.be/XEWGF2PUEAE 
  
 # Pygame Projekt: [WHACK A ...]
 
