@@ -6,6 +6,10 @@ Involvierte Studenten:
 - Alexander Schmidt, Matr.nr.: 2793810
 - Pio De Pascale, Matr.nr.: 2799825
 
+# LINKS: 
+ Git-Repository: https://github.com/PioDePa/AbgabeAbschlussprojekt
+ Erklärvideo (YouTube): https://youtu.be/XEWGF2PUEAE 
+ 
 # Pygame Projekt: [WHACK A ...]
 
 Dies ist ein Pygame-Projekt, das im Rahmen vom Modul "Programmieren" im WS25/26 erstellt wurde. Ziel des Spiels ist es, rechtzeitig verschiedene Charaktere mit dem Mauszeiger zu treffen, um den Score zu erhöhen.
